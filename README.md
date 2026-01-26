@@ -4,13 +4,6 @@
 A responsive **Student Performance Analytics Dashboard** built using **HTML5, Bootstrap 5, CSS3, Vanilla JavaScript, LocalStorage, and Chart.js**.  
 This project visualizes student academic data with interactive tables and charts using **hardcoded data**.
 
----
-
-## 🔥 Live Preview
-👉 *(Add GitHub Pages / Netlify link here)*
-
----
-
 ## 📌 Features
 
 ✅ Responsive dashboard UI using **Bootstrap 5**  
@@ -22,7 +15,6 @@ This project visualizes student academic data with interactive tables and charts
 ✅ Clean, modular file structure  
 ✅ 100% frontend (No backend required)
 
----
 
 ## 🧠 Project Overview
 
